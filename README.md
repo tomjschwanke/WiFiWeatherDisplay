@@ -45,8 +45,9 @@ A few years back I saw the video by jconenna where he showed off his WiFi weathe
 - Some sort of powersupply
 
 ## Connections
-| ESP8266 D1 | Failed request LED    |
+| ESP8266    | Other part            |
 |------------|-----------------------|
+| ESP9266 D1 | Failed request LED    |
 | ESP8266 D2 | Lost connectivity LED |
 | ESP8266 D5 | MAX7219 CLK           |
 | ESP8266 D7 | MAX7219 DIN           |
