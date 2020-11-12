@@ -25,6 +25,8 @@ A few years back I saw the video by jconenna where he showed off his WiFi weathe
 - Celsius or Farenheit defined in the OpenWeatherMap API call
 ### Humidity
 - 0% to 100% RH
+### Automatic dimming
+- Dims after sunset (info from OpenWeatherMap API)
 ### OTA
 - Set a hostname and password to update the ESP8266 over WiFi without connecting the USB cable
 - has its own neat progress animation (can be a bit laggy, but excuse the chip, its updating itself)
