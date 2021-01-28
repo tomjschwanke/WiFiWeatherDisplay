@@ -1,3 +1,6 @@
+# Important:
+Due to limitations / bugs with the ESP8266, I have moved this to the ESP32, you can find it at [https://github.com/tomjschwanke/WiFiWeatherDisplayEsp32](https://github.com/tomjschwanke/WiFiWeatherDisplayEsp32)
+
 # WiFiWeatherDisplay
 Adapted jconenna's WiFi weather display for my own needs and ported it to the ESP8266. This is basically a complete recode, but I still wanna give him credit for the existing animations.
 
